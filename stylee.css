@@ -1,0 +1,17 @@
+*{
+    color: blueviolet;
+}
+p{
+    color: chartreuse ;
+}
+h1,h2,p{
+    font-family: sans-serif;
+    color: coral;
+}
+.newClass{
+    font-style: italic;
+}
+
+#idName{
+    color: darksalmon;
+}
